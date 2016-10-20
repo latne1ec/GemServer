@@ -1,0 +1,9 @@
+{
+  "DATABASE_URI": "mongodb://evan:teamlevellabs@ds061246.mlab.com:61246/gem",
+  "CLOUD_PATH": "./cloud/main.js",
+  "APP_ID": "appid",
+  "MASTER_KEY": "masterkey",
+  "FILE_KEY": "<your-file-key>",
+  "PARSE_MOUNT_PATH": "/api",
+  "SERVER_URL": "http://gemincsf.appspot.com"
+}
